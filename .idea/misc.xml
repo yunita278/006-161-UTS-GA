@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GIS Android/006161UTSGA/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/GIS Android/006161UTSGA/app/src/main/res/layout/fragment_lokasi_saat_ini.xml" value="0.14130434782608695" />
+        <entry key="..\:/GIS Android/006161UTSGA/app/src/main/res/layout/fragment_pencarian_lokasi.xml" value="0.14130434782608695" />
+        <entry key="..\:/GIS Android/006161UTSGA/app/src/main/res/layout/fragment_titik_lokasi.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/yusuf/006161UTSGA/app/src/main/res/layout/activity_main.xml" value="0.28351449275362317" />
+        <entry key="..\:/Users/yusuf/006161UTSGA/app/src/main/res/layout/fragment_lokasi_saat_ini.xml" value="0.28351449275362317" />
+        <entry key="..\:/Users/yusuf/006161UTSGA/app/src/main/res/layout/fragment_pencarian_loaksi.xml" value="0.28351449275362317" />
+        <entry key="..\:/Users/yusuf/006161UTSGA/app/src/main/res/layout/fragment_pencarian_lokasi.xml" value="0.28351449275362317" />
+        <entry key="..\:/Users/yusuf/006161UTSGA/app/src/main/res/layout/fragment_titik_lokasi.xml" value="0.28351449275362317" />
+        <entry key="..\:/Users/yusuf/006161UTSGA/app/src/main/res/menu/buttom_nav_menu.xml" value="0.325" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
